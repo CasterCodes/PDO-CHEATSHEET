@@ -1,0 +1,14 @@
+{
+  "name": "pdocheatsheet2/notes",
+  "description": "My notes on pdo",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kevin Caster",
+      "email": "nyagucha.kevin.otwori@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.0"
+  }
+}
