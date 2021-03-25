@@ -51,7 +51,7 @@ $dsn = "mysql:host={$host};dbname={$database};charste={$charset}";
 
 There are two ways to run queries in PDO
 
-1.  If no there are not variables to be used in the query use PDO::query()
+1.  If there are no variables to be used in the query use PDO::query()
     **Example**
 
 ```php
